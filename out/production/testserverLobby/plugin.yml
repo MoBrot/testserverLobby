@@ -1,0 +1,13 @@
+name: LobbySystem
+main: de.mobro.lobby.Main
+version: 1.0
+author: MoBro
+commands:
+   lobbysetspawn:
+   spawn:
+   lobbysetchest:
+   coins:
+   lobbysetCoinVillager:
+   ping:
+   gm:
+   setcoins:
